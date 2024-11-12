@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "uvicorn api:app --reload"
+  },
+  "dependencies": {
+    "zsh": "^0.0.1"
+  }
+}
